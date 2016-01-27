@@ -1,0 +1,23 @@
+/*-----------------------------------------------------------------------------------
+--	SOURCE FILE:	menu.rc - Menu resource file that defines the program menu.
+--
+--	PROGRAM:        RFID Reader Application
+--
+--	DATE:			October 19, 2015
+--
+--	REVISIONS:		N/A
+--
+--	DESIGNER:		Alvin Man / Oscar Kwan
+--
+--	PROGRAMMER:		Alvin Man / Oscar Kwan
+--
+--	NOTES:			menu.rc is part of a minimal Windows terminal emulator,
+--					that transmits characters typed on the keyboard to the serial
+--					port and displays all characters received via the serial port.
+--
+--					This program utilizes the layered (OSI) approach.
+-----------------------------------------------------------------------------------*/
+
+#include "header.h"
+
+IDI_MYICON ICON "menu_one.ico"
